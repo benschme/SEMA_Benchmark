@@ -1,0 +1,1 @@
+CREATE TABLE SEMA_Benchmark (a INTEGER, b INTEGER, c TEXT);
