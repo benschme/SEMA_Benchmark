@@ -5,6 +5,8 @@ Dieser Benchmark dient zum Vergleich der Leistung auf einem beliebigen Dateisyst
 
 Das Benchmark Skript ist in zwei Teile gegliedert. Zuerst wird die Datenbank initialisiert, dazu gehört das Erstellen der Datenbank, die Konfiguration der verschiedenen Parameter sowie die Vorbelegung der Datensätze. Im nächsten Abschnitt folgen die drei Leistungsmessungen, die mit drei SQL Statements umgesetzt werden.
 
+Die wichtigsten Parameter, die gemessen werden, sind:
+
 - Vorbelegung einer Datenbank mit 100'000 Datensätze
 - Anfügen von Datensätze (1'000 Operationen)
 - Lesen von zufälligen Datensätze (1'000 Operationen)
