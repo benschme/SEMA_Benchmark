@@ -1,5 +1,6 @@
-# Seminararbeit im Studiengang Informatik FS21
-## Leistungsvergleich von Dateisystemen mittels SQLite
+# Leistungsvergleich von Dateisystemen mittels SQLite
+## Seminararbeit im Studiengang Informatik - FS21
+### Fernfachhochschule Schweiz
 
 Dieser Benchmark dient zum Vergleich der Leistung auf einem beliebigen Dateisystem unter einem reproduzierbares SQLite Workload.
 
